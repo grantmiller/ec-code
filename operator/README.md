@@ -1,1 +1,0 @@
-# embedded-cluster-operator
